@@ -2,6 +2,9 @@
 
 x.x:
 
+3.0.0-1 (11/22/2019):
+ - Fix: do not display 'Subscribe' entity:menu item in 'widgets' context
+
 3.0.0 (12/11/2016):
  - Add discussions as available entity
  - Add french translation file
