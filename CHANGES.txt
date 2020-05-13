@@ -2,6 +2,9 @@
 
 x.x:
 
+3.0.0-2 (05/13/2020):
+ - Fix: report comment fix from elgg v2.0.3
+
 3.0.0-1 (11/22/2019):
  - Fix: do not display 'Subscribe' entity:menu item in 'widgets' context
 
